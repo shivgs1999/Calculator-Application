@@ -18,7 +18,6 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 
 ## Demo
 
-[![View site - GH Pages]([https://shivgs1999.github.io/javascript-calculator/](https://github.com/shivgs1999/Calculator-Application))
 
 ![javascript-calculator](https://user-images.githubusercontent.com/47948084/230783857-6933cdde-4cba-43f5-8aeb-ef992d9507dc.png)
 
