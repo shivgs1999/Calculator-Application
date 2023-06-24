@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-# Javascript Calculator
 
-[![AlexFlorides - javascript-calculator](https://img.shields.io/static/v1?label=shivgs1999&message=javascript-calculator&color=blue&logo=github)](https://github.com/shivgs1999/javascript-calculator "Go to GitHub repo")
-[![stars - javascript-calculator](https://img.shields.io/github/stars/shivgs1999/javascript-calculator?style=social)](https://github.com/shivgs1999/javascript-calculator)
-[![forks - javascript-calculator](https://img.shields.io/github/forks/shivgs1999/javascript-calculator?style=social)](https://github.com/shivgs1999/javascript-calculator)
+# Javascript Calculator Application
 
----
 
 A simple calculator built using vanilla HTML, CSS and JavaScript.
 
