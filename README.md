@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Javascript Calculator
 
 [![AlexFlorides - javascript-calculator](https://img.shields.io/static/v1?label=AlexFlorides&message=javascript-calculator&color=blue&logo=github)](https://github.com/AlexFlorides/javascript-calculator "Go to GitHub repo")
@@ -31,3 +32,7 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 - Feel free to suggest any improvements by creating an issue.
 
 - You can also work on an already open issue and pull request when finished, so I can review the changes and eventually merge them to the base branch.
+=======
+# Calculator-Application
+Calculator tool usin JavaScript
+>>>>>>> dd708aa389a3c298caacb8515577b6a9072b98a9
